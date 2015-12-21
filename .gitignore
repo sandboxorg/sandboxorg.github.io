@@ -1,0 +1,11 @@
+#Ignore thumbnails created by Windows
+Thumbs.db
+
+#Ignore metadata created by OSX
+.DS_Store
+._*
+
+#Ignore files built via Jekyll
+_site
+.sass-cache
+.jekyll-metadata
